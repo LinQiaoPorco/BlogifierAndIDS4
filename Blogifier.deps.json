@@ -1669,23 +1669,23 @@
           "pt-BR/Blogifier.Shared.resources.dll": {
             "locale": "pt-BR"
           },
-          "es/Blogifier.Shared.resources.dll": {
-            "locale": "es"
+          "el-GR/Blogifier.Shared.resources.dll": {
+            "locale": "el-GR"
           },
           "sv-SE/Blogifier.Shared.resources.dll": {
             "locale": "sv-SE"
           },
-          "fa/Blogifier.Shared.resources.dll": {
-            "locale": "fa"
-          },
-          "el-GR/Blogifier.Shared.resources.dll": {
-            "locale": "el-GR"
+          "ur-PK/Blogifier.Shared.resources.dll": {
+            "locale": "ur-PK"
           },
           "ru/Blogifier.Shared.resources.dll": {
             "locale": "ru"
           },
-          "ur-PK/Blogifier.Shared.resources.dll": {
-            "locale": "ur-PK"
+          "fa/Blogifier.Shared.resources.dll": {
+            "locale": "fa"
+          },
+          "es/Blogifier.Shared.resources.dll": {
+            "locale": "es"
           }
         }
       }
