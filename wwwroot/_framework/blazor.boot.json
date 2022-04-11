@@ -11,8 +11,8 @@
   "resources": {
     "assembly": {
       "Blazored.Typeahead.dll": "sha256-YNakk\/GmzitY7JWE\/2LWemYjE+ufhSnWzOQM36VuU5Q=",
-      "Blogifier.Admin.dll": "sha256-mnBZpXdQ8Le7rFIikO1ORd589lFNXzLAeMSAoEABLmM=",
-      "Blogifier.Shared.dll": "sha256-2TD+E3IDOk8+FGjp2TJRVMu74g694oODvBC9BHvo\/Ek=",
+      "Blogifier.Admin.dll": "sha256-Ca5J+TYlY9dyC\/M3JudOKlRL0TQQEMVjGgLQ1JS7Yvg=",
+      "Blogifier.Shared.dll": "sha256-eoqqp+FIJ3fU1qVBvq2B4whsbxgyKkmjBTNqugM3WLQ=",
       "ChartJs.Blazor.dll": "sha256-0ciRJps8EWsbo3zIh4fYA2+QBnZIl1lSu4aydLaQDEo=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-ODQ0V4VE\/I2Kc0u0344SCga6aqi5WYSgc6luq1qgQO8=",
       "Microsoft.AspNetCore.Components.Authorization.dll": "sha256-Bju0EoaNFynBnTPDjej3yn+1Na\/JXZmMptmah1kj9vg=",
