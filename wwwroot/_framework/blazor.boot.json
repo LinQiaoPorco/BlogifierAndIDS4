@@ -11,7 +11,7 @@
   "resources": {
     "assembly": {
       "Blazored.Typeahead.dll": "sha256-YNakk\/GmzitY7JWE\/2LWemYjE+ufhSnWzOQM36VuU5Q=",
-      "Blogifier.Admin.dll": "sha256-vxUsRv8SltDX6yyXqNJ\/VazW7PuQM2GwyF5S0AawY2c=",
+      "Blogifier.Admin.dll": "sha256-Zf9BIK2QanNX7YTbf0GJsHd2zXvVmJquB0rPj7dzZwQ=",
       "Blogifier.Shared.dll": "sha256-3w8ZIkqKAZssaNiesL5mlKF75xPsPPi\/kCXGFHLvnnY=",
       "ChartJs.Blazor.dll": "sha256-0ciRJps8EWsbo3zIh4fYA2+QBnZIl1lSu4aydLaQDEo=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-ODQ0V4VE\/I2Kc0u0344SCga6aqi5WYSgc6luq1qgQO8=",
@@ -73,7 +73,7 @@
       "System.Runtime.Numerics.dll": "sha256-\/i0g8EU0MP5oRlezXcNawLk6XswoHPO7CG5JWDAaeec=",
       "System.Runtime.Serialization.Formatters.dll": "sha256-ps7ZD4CRZII0AYCtrF87laVBt8QPAWD39akAQVX4H4U=",
       "System.Runtime.Serialization.Primitives.dll": "sha256-f9SjXW30cStF8+MhQj2S2RmiTVkSYkZgk9UDuY2z\/3o=",
-      "System.Security.Claims.dll": "sha256-OTUCdiprufxN0yiumvLkcR5MrIHbwWDmak60KP4EKzc=",
+      "System.Security.Claims.dll": "sha256-4hCuw9JqZZmmZvrVl3V44s3su3sqKVsshbdFbjx9qzg=",
       "System.Security.Cryptography.Algorithms.dll": "sha256-CcVS9DQZNH7sFsc23dpfybM7sbkCWIZtOL40U8jLBaE=",
       "System.Security.Cryptography.Primitives.dll": "sha256-ueKWp+rQ8rz89VuAlZFyWlrtfT\/aI9e2yJ2\/KyMMqDM=",
       "System.Text.Encodings.Web.dll": "sha256-Fcwyhf7jrCr1WTvNxdtZXQ58p22KDlddJULxepmKTm0=",
